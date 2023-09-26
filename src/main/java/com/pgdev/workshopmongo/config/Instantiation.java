@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 
+import com.pgdev.workshopmongo.domain.User;
 import com.pgdev.workshopmongo.repositories.UserRepository;
-import com.pgdev.workshopmongodomain.User;
 
 @Configuration
 public class Instantiation implements CommandLineRunner{

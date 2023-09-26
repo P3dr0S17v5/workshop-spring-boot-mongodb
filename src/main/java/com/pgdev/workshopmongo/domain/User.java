@@ -1,4 +1,4 @@
-package com.pgdev.workshopmongodomain;
+package com.pgdev.workshopmongo.domain;
 
 import java.io.Serializable;
 import java.util.Objects;
